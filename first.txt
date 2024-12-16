@@ -3,3 +3,4 @@ gitの練習
 ・git add
 ・git commit
 練習1637
+・git rm 17:50
