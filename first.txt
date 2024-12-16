@@ -4,3 +4,4 @@ gitの練習
 ・git commit
 練習1637
 ・git rm 17:50
+・git status 19:09
